@@ -2,9 +2,19 @@
 # Hi I'm Bhavesh 👋
 [![Linkedin Badge](https://img.shields.io/badge/-bhavesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaveshchoudhary)](https://www.linkedin.com/in/bhaveshchoudhary)  [![Website Badge](https://img.shields.io/badge/-probhavesh-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://probhavesh.vercel.app/)](https://probhavesh.vercel.app/)
 
-[![Twitter Badge](https://img.shields.io/badge/-@yoBhavesh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)  [![Gmail Badge](https://img.shields.io/badge/-probhavsh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:probhavsh@gmail.com)](mailto:probhavsh@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@yoBhavesh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yoBhavesh)](https://twitter.com/yoBhavesh)  [![Gmail Badge](https://img.shields.io/badge/-probhavsh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:probhavsh@gmail.com)](mailto:probhavsh@gmail.com)
 
-Welcome to my profile! I'm a student, aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
+I am a nineteen-year-old with a creative and fresh mind, wants to bring change to the world by providing the power of technology to the underprivileged.
+
+Currently working as a frontend developer, learning every day, I am pursuing my Bachelor's of Technology in Food Technology and Management.
+
+Always curious about new technologies and developments in the tech industry.
+
+I do freelancing work as a frontend dev and make websites for small businesses.
+
+I am from a farmer's family and do farming myself, part-time. My major goal is to make a network of farmers under which they can trade and get the full benefit of technology.
+
+Looking towards a better future for everyone.
 
 
 ### Languages and Tools 🛠 
