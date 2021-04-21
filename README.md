@@ -1,6 +1,7 @@
 
 # Hi I'm Bhavesh 👋
 [![Linkedin Badge](https://img.shields.io/badge/-bhavesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaveshchoudhary)](https://www.linkedin.com/in/bhaveshchoudhary)  [![Website Badge](https://img.shields.io/badge/-probhavesh-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://probhavesh.vercel.app/)](https://probhavesh.vercel.app/)
+
 [![Twitter Badge](https://img.shields.io/badge/-@yoBhavesh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)  [![Gmail Badge](https://img.shields.io/badge/-probhavsh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:probhavsh@gmail.com)](mailto:probhavsh@gmail.com)
 
 Welcome to my profile! I'm a student, aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
