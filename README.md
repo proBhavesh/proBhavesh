@@ -6,13 +6,8 @@
 
 # About🧐
 
-#### I am currently working as a frontend developer, learning every day new things.
-#### Always curious about new technologies and developments in the tech industry.
-#### I do freelancing work as a frontend dev and make websites for small businesses.
-#### I am from a farmer's family and do farming myself, part-time. 
-#### My major goal is to make a network of farmers under which they can trade and getthe full benefit of technology.
+#### MERN stack develoer. 
 
-#### Looking towards a better future for everyone.
 
 
 # Languages and Tools 🛠 
