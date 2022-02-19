@@ -1,19 +1,122 @@
 
-# Hi I'm Bhavesh 👋
-[![Linkedin Badge](https://img.shields.io/badge/-bhavesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaveshchoudhary)](https://www.linkedin.com/in/bhaveshchoudhary)  [![Website Badge](https://img.shields.io/badge/-probhavesh-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://probhavesh.vercel.app/)](https://probhavesh.vercel.app/)
+# Hi! Bhavesh Here👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@yoBhavesh-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yoBhavesh)](https://twitter.com/yoBhavesh)  [![Gmail Badge](https://img.shields.io/badge/-probhavsh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:probhavsh@gmail.com)](mailto:probhavsh@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-bhavesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaveshchoudhary)](https://www.linkedin.com/in/bhaveshchoudhary)  [![Website Badge](https://img.shields.io/badge/-probhavesh-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://probhavesh.vercel.app/)](https://bhavesh.pro/)
+
+[![Twitter Badge](https://img.shields.io/badge/-@desiDevX3-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/desiDevX3)](https://twitter.com/desiDevX3)  [![Gmail Badge](https://img.shields.io/badge/-probhavsh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:probhavsh@gmail.com)](mailto:probhavsh@gmail.com)
 
 # About🧐
 
-#### MERN stack develoer. 
+<h3> Here's some fun facts about me: </h3>
+
+- 🔭 I’m currently working on Dapps on Solana blockchain
+- 🌱 I've 1.5+ years of exoerience in full stack development
+- 👯 I’m looking to collaborate on Solana projects (Rust especially).
+- 🤔 I’m also working as a Freelancer at Upwork and Fiverr.
+
+## 🛠️ My Skills
+
+### 👉 Programming languages
+
+<p align="left"> 
+  
+
+  <a href="https://javascript.com/">
+    <img alt="Javascript" src="https://img.shields.io/badge/Javascript-0175C2?style=for-the-badge&logo=javascript&logoColor=white"/>
+  </a>
+&emsp;
+<a href="https://python.org/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
+  </a>
+  &emsp;
+<a href="https://www.java.com/en/">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-ED8B00?style=for-the-badge&logo=rust&logoColor=white"/>
+  </a>
+   &emsp;
+  <a href="https://www.java.com/en/">
+    <img alt="Nodejs" src="https://img.shields.io/badge/Nodejs-ED8B00?style=for-the-badge&logo=Node.js&logoColor=white"/>
+  </a>
+
+
+</p>
+
+### 👉 Frameworks
+<p align="left"> 
+&emsp;
+  <a href="https://react.org/" target="_blank"> 
+     <img alt="React" src="https://img.shields.io/badge/React-02569B?style=for-the-badge&logo=react&logoColor=white">
+   </a>
+  &emsp;
+  <a href="https://react.org/" target="_blank"> 
+     <img alt="Anchor" src="https://img.shields.io/badge/Anchor-02569B?style=for-the-badge&logo=anchor&logoColor=white">
+   </a>
+  &emsp; 
+  <a href="https://www.tensorflow.org/" target="_blank"> 
+   <img alt="Express" src="https://img.shields.io/badge/Express-FF6F00?style=for-the-badge&logo=express&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-F7931E?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://keras.io/" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-D00000?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  </a>
+  &emsp;
+  </p>
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+  <a href="https://www.github.com"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-100000?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  &emsp;
+<a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+ </p>
+
+ ### 👉 Software & Tools
+ 
+<p>
+    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+&emsp;
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"></a>
+     &emsp;
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+    &emsp;
+    <a href="#"><img alt="TFigma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+    &emsp;     
+</p>
+
+<br/>
+
+### 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=proBhavesh&theme=gruvbox" alt="Bhavesh"  /></p>
+
+<hr>
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=proBhavesh&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=proBhavesh&show_icons=true&locale=en&theme=gruvbox" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
 
 
 
-# Languages and Tools 🛠 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap) ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff) ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-
-
-[![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=proBhavesh)](https://github.com/anuraghazra/github-readme-stats)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=Ahmad-shaikh575&theme=gruvbox&hide_border=true&area=true)
