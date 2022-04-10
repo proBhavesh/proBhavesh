@@ -5,6 +5,8 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@desiDevX3-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/desiDevX3)](https://twitter.com/desiDevX3)  [![Gmail Badge](https://img.shields.io/badge/-probhavsh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:probhavsh@gmail.com)](mailto:probhavsh@gmail.com)
 
+
+![Visitor Count](https://profile-counter.glitch.me/probhavesh/count.svg)
 # About🧐
 
 <h3> Here's some fun facts about me: </h3>
