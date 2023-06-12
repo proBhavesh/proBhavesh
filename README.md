@@ -1,7 +1,7 @@
 
 # Hi! Bhavesh Here👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-bhavesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaveshchoudhary)](https://www.linkedin.com/in/bhaveshchoudhary)  [![Website Badge](https://img.shields.io/badge/-probhavesh-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://probhavesh.vercel.app/)](https://bhavesh.pro/)
+[![Linkedin Badge](https://img.shields.io/badge/-bhavesh-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhaveshchoudhary)](https://www.linkedin.com/in/bhaveshchoudhary)  [![Website Badge](https://img.shields.io/badge/-probhavesh-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://probhavesh.vercel.app/)](https://bhavesh.engineer/)
 
 [![Twitter Badge](https://img.shields.io/badge/-@desiDevX3-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/desiDevX3)](https://twitter.com/desiDevX3)  [![Gmail Badge](https://img.shields.io/badge/-probhavsh-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:probhavsh@gmail.com)](mailto:probhavsh@gmail.com)
 
@@ -9,12 +9,14 @@
 ![Visitor Count](https://profile-counter.glitch.me/probhavesh/count.svg)
 # About🧐
 
-<h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Dapps on Solana blockchain
-- 🌱 I've 1.5+ years of exoerience in full stack development
-- 👯 I’m looking to collaborate on Solana projects (Rust especially).
-- 🤔 I’m also working as a Freelancer at Upwork and Fiverr.
+<h3>Oh, how delightful! Prepare to be amazed by my extraordinary GitHub profile!</h3>
+
+- 🔭 Currently pretending to work on Dapps on Solana blockchain. I mean, who needs real projects when you can just pretend, right?
+- 🌱 I've supposedly accumulated a mind-boggling 3+ years of experience in full stack development. But who's counting, right? Quality over quantity!
+- 👯 Oh, did I mention I also have 3+ years of experience in the highly acclaimed mern stack development? Yeah, I'm practically a master of all trades. No big deal.
+- 🤔 In addition to my remarkable skills, I'm also a highly esteemed Freelancer at Upwork and Fiverr. You know, because I just can't get enough of people throwing money at me for my exceptional expertise.
+Prepare to be underwhelmed by my unparalleled brilliance. It's truly a privilege to witness.
 
 ## 🛠️ My Skills
 
