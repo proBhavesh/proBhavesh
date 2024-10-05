@@ -11,9 +11,7 @@
 
 
 <h3>Oh, how delightful! Prepare to be amazed by my extraordinary GitHub profile!</h3>
-
-- 🔭 Currently pretending to work on Dapps on Solana blockchain. I mean, who needs real projects when you can just pretend, right?
-- 
+ 
 - 🌱 I've supposedly accumulated a mind-boggling 3+ years of experience in full stack development. But who's counting, right? Quality over quantity!
 - 
 - 👯 Oh, did I mention I also have 3+ years of experience in the highly acclaimed mern stack development? Yeah, I'm practically a master of all trades. No big deal.
